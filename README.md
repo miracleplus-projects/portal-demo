@@ -2,10 +2,7 @@
 
 这是 2025 年度奇绩算力支持项目的公共目录。
 
-收录了**奇绩 Cohort 2025 的全部项目，展示了在真实算力支持下，探索和完成的技术工作。**
-
-
-
+收录了**奇绩 Cohort 2025 的全部项目，展示了在奇绩算力支持下，探索和完成的技术工作。**
 
 ---
 
@@ -126,6 +123,56 @@
 | P65 |  Simulation    | 光速科技 Paralight.ai      | AI 加速的仿真优化平台                |                |
 | P66 |  Agent         | 中科院郭怡然                 | 新型大模型强化学习框架 SPO             | Repo               |
 | P67 |  Agent         | 动态重排序模型                | 检索增强的排序推理模型                 | Repo               |
+
+---
+# MiraclePlus Compute · Cohort 2025 Project Catalog
+
+This is the public catalog of projects supported by MiraclePlus Compute in 2025.
+
+It features **all projects from MiraclePlus Compute Cohort 2025, showcasing the technical work explored and accomplished with MiraclePlus compute support.**
+
+---
+
+## What's Inside?
+
+- 67 projects
+- Teams from diverse backgrounds: research, engineering, entrepreneurship
+- Including robotics, agents, multimodal AI, AI for Science, systems and simulation, and more
+
+Each project links to the team's external repository or results showcase.
+
+---
+
+## Why this catalog?
+
+We aim to:
+
+- Enable cohort members to see each other's work
+- Reduce the cost of cross-team communication and collaboration
+- Maintain a traceable annual record
+
+---
+
+## What can you do here?
+
+- Browse projects in your field or adjacent areas
+- Jump directly to project teams' external resources
+- Find potential discussion partners or collaborators within the community
+
+---
+
+## About the Content
+
+- This repository does not enforce uniform coding or documentation formats
+- Only includes links and information confirmed as publicly shareable by project teams
+- Updates are based on voluntary submissions from project teams
+
+---
+
+## If You Also Need Free Compute Support
+
+For further application methods and support scope,  
+please refer to the MiraclePlus Compute official website: https://www.miracleplus.com/compute/
 
 ---
 
